@@ -47,7 +47,7 @@ Solutions to contests and practice problems covering different difficulty levels
 - Write clean and efficient solutions
 - Track learning progress over time
 
----
+
 
 ## Progress
 
