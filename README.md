@@ -15,7 +15,7 @@ Competitive-Programming-and-Problem-Solving
 │
 ├── Codeforces
 ├── LeetCode
-└── CodeChef
+
 ```
 
 ---
