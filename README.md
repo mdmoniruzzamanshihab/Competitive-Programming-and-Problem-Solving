@@ -49,6 +49,3 @@ Solutions to contests and practice problems covering different difficulty levels
 
 
 
-## Progress
-
-This repository is updated regularly as I solve new problems and continue my competitive programming journey.
