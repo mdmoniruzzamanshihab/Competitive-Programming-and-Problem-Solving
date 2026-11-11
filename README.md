@@ -45,7 +45,7 @@ Solutions to contests and practice problems covering different difficulty levels
 - Practice competitive programming consistently
 - Prepare for technical coding interviews
 - Write clean and efficient solutions
-- Track learning progress over time
+
 
 
 
