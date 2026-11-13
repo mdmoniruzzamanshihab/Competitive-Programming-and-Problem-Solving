@@ -43,7 +43,7 @@ Solutions to contests and practice problems covering different difficulty levels
 - Strengthen advance problem-solving skills
 - Improve advance algorithmic thinking
 - Practice competitive programming 
-- Prepare for technical coding interviews
+- Prepare for technical coding interview
 - Write clean and efficient solutions
 
 
