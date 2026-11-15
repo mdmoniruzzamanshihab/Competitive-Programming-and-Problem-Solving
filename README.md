@@ -40,7 +40,7 @@ Solutions to contests and practice problems covering different difficulty levels
 
 ## Goals
 
-- Strengthen advance problem-solving skills
+- Strengthen advance problem-solving skill
 - Improve advance algorithmic thinking
 - Practice competitive programming 
 - Prepare for technical coding interview
