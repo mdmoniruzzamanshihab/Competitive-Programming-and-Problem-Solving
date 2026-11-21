@@ -44,7 +44,7 @@ Solutions to contests and practice problems covering different difficulty levels
 - Improve advance algorithmic critical thinking
 - Practice competitive programming problems with consistency
 - Prepare for technical coding interview
-- Write clean and efficient solution
+- Write clean and efficient solutions
 
 
 
